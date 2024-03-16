@@ -8,7 +8,7 @@ Download the **RhubarbLibrary** binary for your **OS** [here](https://github.com
 
 Start the development server with
 
-# NPM
+### NPM
 
 ```
 npm install
@@ -17,7 +17,7 @@ npm run dev
 
 OR
 
-# Yarn
+### Yarn
 
 ```
 yarn
