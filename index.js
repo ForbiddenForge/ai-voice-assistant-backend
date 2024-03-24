@@ -112,7 +112,7 @@ app.post('/chat', async (req, res) => {
         You will always reply with a JSON array of messages. With a maximum of 5 messages.
         Each message has a text, facialExpression, and animation property. The facialExpression and animation properties should be related to the text you created. 
         The different facial expressions are: smile, sad, angry, surprised, funnyFace, and default.
-        The different animations are limited to the following: Angry, Arguing, Counting, Disappointed, HipHopDancing, Idle, Laughing, Looking, LookingBehind, Praying, ThumbsUp, Talking, FancyHipHopDance, Waving. 
+        The animation choices are limited to the following: Idle, Falling, Typing, Waving, FancyHipHopDance, Talking, ThumbsUp, Arguing, Praying, LookingBehind, Looking, Laughing, HipHopDancing, HappyIdle, Disappointed, Counting, Angry. 
         `,
 			},
 			// FEMALE Model
